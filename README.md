@@ -1,2 +1,2 @@
-# root_core
+# Root Core
 Micro kernel for micro OS
