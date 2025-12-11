@@ -1,0 +1,14 @@
+Information about Root Core:
+
+Root Core was created as a minimal kernel for running the OS where you set the rest of the startup parameters. 
+OSes such as Nil OS, Tiny Core and CorePlus are based on this kernel.
+
+ROOT CORE: Version 3.0
+Created by SlizR
+LICENSE: BSD-3 Clause
+
+Links:
+
+SlizR Company: https://github.com/SlizR
+Root Core Github Repo: https://github.com/SlizR/root_core
+LICENSE: https://github.com/SlizR/root_core/blob/main/LICENSE
